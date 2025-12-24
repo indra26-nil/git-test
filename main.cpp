@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 
-    cout << "Done 1" << endl;
-    cout << "New change" << endl ;
+    cout << "PUSH" << endl;
+    cout << "Successfully" << endl ;
     return 0;
 }
